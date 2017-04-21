@@ -1,0 +1,5 @@
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CIS_247_WK4_lab_JJG\CIS_247_WK4_lab_JJG\bin\Debug\CIS_247_WK4_lab_JJG.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CIS_247_WK4_lab_JJG\CIS_247_WK4_lab_JJG\bin\Debug\CIS_247_WK4_lab_JJG.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CIS_247_WK4_lab_JJG\CIS_247_WK4_lab_JJG\obj\Debug\CIS_247_WK4_lab_JJG.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CIS_247_WK4_lab_JJG\CIS_247_WK4_lab_JJG\obj\Debug\CIS_247_WK4_lab_JJG.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CIS_247_WK4_lab_JJG\CIS_247_WK4_lab_JJG\obj\Debug\CIS_247_WK5_jjg.csprojResolveAssemblyReference.cache
